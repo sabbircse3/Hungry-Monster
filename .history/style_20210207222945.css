@@ -1,0 +1,32 @@
+#loading {
+    display: none;
+}
+
+.meal-item {
+    width: 21%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 5px black;
+}
+
+.meal-item img {
+    width: 100%;
+}
+
+.meal-item p {
+    padding-left: 10px;
+    padding-top: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+
+#ingredients img {
+    width: 100%;
+}
+
+.dialog-content {
+    margin-top: 20px;
+}
+
+#notFoundAlert {
+    display: none;
+}
